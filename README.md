@@ -29,10 +29,10 @@ $ todo add "Finish report"
 $ todo list
 
 # To mark a task as complete:
-$ todo complete <Task index>
+$ todo complete <Task index*>
 
 # To delete a task:
-$ todo delete <Task index>
+$ todo delete <Task index*>
 
 # To exit the application:
 $ exit
