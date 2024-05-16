@@ -19,7 +19,7 @@ A simple todo list application written in Rust. Users can add tasks, list tasks,
 3. Navigate to the project directory in your terminal.
 4. Run the following command to compile and run the application:
 
-#To use the todo list application, follow these commands:
+# To use the todo list application, follow these commands:
 - $ cargo run
   
 # To add a task:
